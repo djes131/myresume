@@ -1,0 +1,25 @@
+.container{
+	background: #e0ffff;
+}
+#logo{
+	padding-left: 80px;
+}
+.foto{
+	padding-left: 80px;
+	float: left;
+
+}
+.info{
+	float: right;
+	font-size: 14pt;
+	font-family: Tahoma,Geneva,sans-serif;
+	padding-right: 20px;
+}
+.tabs{
+	margin-top: 40px;
+}
+#tab-1,#tab-2,#tab-3{
+	font-family: Tahoma,Geneva,sans-serif;
+	font-size: 12pt;
+	padding-top: 20px;
+}
